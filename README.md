@@ -12,7 +12,9 @@ Everybody can sign up for free at [VersionEye.com](https://www.versioneye.com). 
  - Password
  - List of organisations
  
-After a successful signup of a new user, a new organisation is created to which the user is assigned to. 
+After a successful signup of a new user, a new organisation is created to which the user is assigned to. The name of the new organisation follows always this pattern `#{username}_orga`.
+
+If the software is running in `enterprise` mode, it can be configured that way that only admins of the system can create new organisations. 
 
 ## Organisations
 
@@ -29,7 +31,13 @@ An organisation is the entity for a work group. This entities are bound to an or
 
 The entities above are never bound to a user directly. That has the advantage that the owernship can be transfered very easily. A user can be member in many organisations. 
 
-# Teams
+In the main menu there is a point for "organisations". 
+By clicking on that menu a list of all organisations is returned there the user is a member of. Here is an example: 
+
+![Organisation index](images/orga_index)
+
+The first element in the list is a link to create a new organisation. 
+
 
 
 
