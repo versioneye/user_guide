@@ -3,6 +3,12 @@
 This user guide explains how to use the VersionEye software as a user. 
 If you wanna now how to setup the software you should check out the [ops_contrib](https://github.com/versioneye/ops_contrib) repository.
 
+- [Users](#users)
+- [Organisations](#organisations)
+- [Teams](#teams)
+- [Permissions inside of an organisation](#permissions_inside_of_an_organisation)
+
+
 ## Users
 
 Everybody can sign up for free at [VersionEye.com](https://www.versioneye.com). Every user in the system has a: 
