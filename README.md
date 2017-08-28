@@ -6,7 +6,7 @@ If you wanna now how to setup the software you should check out the [ops_contrib
 - [Users](#users)
 - [Organisations](#organisations)
 - [Teams](#teams)
-- [Permissions inside of an organisation](#permissions_inside_of_an_organisation)
+- [Permissions inside of an organisation](#permissions-inside-of-an-organisation)
 
 
 ## Users
