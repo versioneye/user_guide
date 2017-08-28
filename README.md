@@ -38,6 +38,35 @@ By clicking on that menu a list of all organisations is returned there the user 
 
 The first element in the list is a link to create a new organisation. 
 
+## Teams
+
+A team is a collections of users. An organisation can have multiple teams. 
+
+![Team index](images/team_index.png)
+
+There is a N to N relationship between projects and teams. 
+That means that a project can be assigned to multiple teams and a team can be 
+assigned to multiple projects. The notifications are configured on a team level. 
+Each team can decide in which kind of notifications they are interested and 
+on which week day they want to receive the notifications. 
+
+![Team index](images/team_detail.png)
+
+The team(s) can be assigned to a project in the the project settings tab. 
+
+![Team index](images/project_settings_tab_01.png)
+
+## Permissions inside of an organisation
+
+By default every organisation has a team called `Owners`. 
+The members of that team are the admins of the organisation. 
+So think twice who you are adding to the `Owners` team.
+The user who created the organisation is initially part of the `Owners` team. 
+The `Owners` team can **not** be deleted! 
+
+
+
+
 
 
 
