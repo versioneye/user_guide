@@ -34,7 +34,7 @@ The entities above are never bound to a user directly. That has the advantage th
 In the main menu there is a point for "organisations". 
 By clicking on that menu a list of all organisations is returned there the user is a member of. Here is an example: 
 
-![Organisation index](images/orga_index)
+![Organisation index](images/orga_index.png)
 
 The first element in the list is a link to create a new organisation. 
 
